@@ -1,0 +1,23 @@
+C:\Users\Edgard\source\repos\caEmpregado\caEmpregado\bin\Debug\caEmpregado.exe.config
+C:\Users\Edgard\source\repos\caEmpregado\caEmpregado\bin\Debug\caEmpregado.exe
+C:\Users\Edgard\source\repos\caEmpregado\caEmpregado\bin\Debug\caEmpregado.pdb
+C:\Users\Edgard\source\repos\caEmpregado\caEmpregado\obj\Debug\caEmpregado.csprojAssemblyReference.cache
+C:\Users\Edgard\source\repos\caEmpregado\caEmpregado\obj\Debug\caEmpregado.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caEmpregado\caEmpregado\obj\Debug\caEmpregado.exe
+C:\Users\Edgard\source\repos\caEmpregado\caEmpregado\obj\Debug\caEmpregado.pdb
+C:\Users\Edgard\source\reposAntigo\caEmpregado\caEmpregado\bin\Debug\caEmpregado.exe.config
+C:\Users\Edgard\source\reposAntigo\caEmpregado\caEmpregado\bin\Debug\caEmpregado.exe
+C:\Users\Edgard\source\reposAntigo\caEmpregado\caEmpregado\bin\Debug\caEmpregado.pdb
+C:\Users\Edgard\source\reposAntigo\caEmpregado\caEmpregado\obj\Debug\caEmpregado.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\reposAntigo\caEmpregado\caEmpregado\obj\Debug\caEmpregado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\reposAntigo\caEmpregado\caEmpregado\obj\Debug\caEmpregado.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\reposAntigo\caEmpregado\caEmpregado\obj\Debug\caEmpregado.exe
+C:\Users\Edgard\source\reposAntigo\caEmpregado\caEmpregado\obj\Debug\caEmpregado.pdb
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\ProjetosConsoleApp\caEmpregado\caEmpregado\caEmpregado\bin\Debug\caEmpregado.exe.config
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\ProjetosConsoleApp\caEmpregado\caEmpregado\caEmpregado\bin\Debug\caEmpregado.exe
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\ProjetosConsoleApp\caEmpregado\caEmpregado\caEmpregado\bin\Debug\caEmpregado.pdb
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\ProjetosConsoleApp\caEmpregado\caEmpregado\caEmpregado\obj\Debug\caEmpregado.csproj.AssemblyReference.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\ProjetosConsoleApp\caEmpregado\caEmpregado\caEmpregado\obj\Debug\caEmpregado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\ProjetosConsoleApp\caEmpregado\caEmpregado\caEmpregado\obj\Debug\caEmpregado.csproj.CoreCompileInputs.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\ProjetosConsoleApp\caEmpregado\caEmpregado\caEmpregado\obj\Debug\caEmpregado.exe
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\ProjetosConsoleApp\caEmpregado\caEmpregado\caEmpregado\obj\Debug\caEmpregado.pdb
